@@ -1,0 +1,767 @@
+[
+  {
+    "version": "3"
+  },
+  {
+    "nid": "9-kanal-hd-il",
+    "name_he": "ערוץ 9",
+    "name_en": "9 Канал",
+    "tvgid": "9"
+  },
+  {
+    "nid": "channel10-il-hd",
+    "name_he": "כלכלה 10",
+    "name_en": "Economy 10",
+    "tvgid": "10"
+  },
+  {
+    "nid": "11-kanal-il",
+    "name_he": "כאן 11",
+    "name_en": "Kan 11",
+    "tvgid": "11"
+  },
+  {
+    "nid": "12-kanal-il",
+    "name_he": "קשת 12",
+    "name_en": "Keshet 12",
+    "tvgid": "12"
+  },
+  {
+    "nid": "13-kanal-il",
+    "name_he": "רשת 13",
+    "name_en": "Reshet 13",
+    "tvgid": "13"
+  },
+  {
+    "nid": "14-kanal-il",
+    "name_he": "עכשיו 14",
+    "name_en": "Now 14",
+    "tvgid": "14"
+  },
+  {
+    "nid": "kan23-il",
+    "name_he": "כאן חינוכית",
+    "name_en": "Kan Chinucit",
+    "tvgid": "23"
+  },
+  {
+    "nid": "channel24-il-hd",
+    "name_he": "ערוץ 24",
+    "name_en": "Channel 24",
+    "tvgid": "24"
+  },
+  {
+    "nid": "i24-il",
+    "name_he": "i24",
+    "name_en": "i24",
+    "tvgid": "i24"
+  },
+  {
+    "nid": "sport1-hd-il",
+    "name_he": "ספורט 1",
+    "name_en": "Sports 1",
+    "tvgid": "sport-1"
+  },
+  {
+    "nid": "sport2-hd-il",
+    "name_he": "ספורט 2",
+    "name_en": "Sports 2",
+    "tvgid": "sport-2"
+  },
+  {
+    "nid": "sport3-hd-il",
+    "name_he": "ספורט 3",
+    "name_en": "Sports 3",
+    "tvgid": "sport-3"
+  },
+  {
+    "nid": "sport4-hd-il",
+    "name_he": "ספורט 4",
+    "name_en": "Sports 4",
+    "tvgid": "sport-4"
+  },
+  {
+    "nid": "sport5-hd-il",
+    "name_he": "ספורט 5",
+    "name_en": "Sports 5",
+    "tvgid": "sport-5"
+  },
+  {
+    "nid": "yes-sport5-plus-il-hd",
+    "name_he": "5 פלוס",
+    "name_en": "5 Plus",
+    "tvgid": "5-plus"
+  },
+  {
+    "nid": "sport5-plus-live-hd-il",
+    "name_he": "5 לייב",
+    "name_en": "5 Live",
+    "tvgid": "5-live"
+  },
+  {
+    "nid": "sport5-stars-il-hd",
+    "name_he": "5 סטארס",
+    "name_en": "5 Stars",
+    "tvgid": "5-stars"
+  },
+  {
+    "nid": "sport5-gold-il",
+    "name_he": "5 גולד",
+    "name_en": "5 Gold",
+    "tvgid": "5-gold"
+  },
+  {
+    "nid": "sport5-max-il-hd",
+    "name_he": "5 מקס",
+    "name_en": "5 Max",
+    "tvgid": "5-max"
+  },
+  {
+    "nid": "sport6-il-hd",
+    "name_he": "ספורט 6",
+    "name_en": "Sports 6",
+    "tvgid": "sport-6"
+  },
+  {
+    "nid": "eurosport1-il-hd",
+    "name_he": "Eurosport 1",
+    "name_en": "Eurosport 1",
+    "tvgid": "eurosport-1"
+  },
+  {
+    "nid": "eurosport2-il-hd",
+    "name_he": "Eurosport 2",
+    "name_en": "Eurosport 2",
+    "tvgid": "eurosport-2"
+  },
+  {
+    "nid": "one-hd-il",
+    "name_he": "One",
+    "name_en": "One",
+    "tvgid": "one"
+  },
+  {
+    "nid": "one2-hd-il",
+    "name_he": "One 2",
+    "name_en": "One 2",
+    "tvgid": "one-2"
+  },
+  {
+    "nid": "one-doco-il-hd",
+    "name_he": "One דוקו",
+    "name_en": "One Doco",
+    "tvgid": "one-doco"
+  },
+  {
+    "nid": "animal-planet-il-hd",
+    "name_he": "אנימל פלאנט",
+    "name_en": "Animal Planet",
+    "tvgid": "animal-planet"
+  },
+  {
+    "nid": "nature-channel-il-hd",
+    "name_he": "ערוץ הטבע",
+    "name_en": "Nature Channel",
+    "tvgid": "nature"
+  },
+  {
+    "nid": "yes-natgeo-il-hd",
+    "name_he": "נשיונל גאוגרפיק",
+    "name_en": "National Geographic",
+    "tvgid": "natgeo"
+  },
+  {
+    "nid": "yes-natgeo-wild-il-hd",
+    "name_he": "נשיונל גאוגרפיק Wild",
+    "name_en": "National Geographic Wild",
+    "tvgid": "natgeo-wild"
+  },
+  {
+    "nid": "discovery-hd-il",
+    "name_he": "דיסקברי",
+    "name_en": "Discovery",
+    "tvgid": "discovery"
+  },
+  {
+    "nid": "history-il",
+    "name_he": "היסטוריה",
+    "name_en": "History",
+    "tvgid": "history"
+  },
+  {
+    "nid": "yes-movies-action-hd-il",
+    "name_he": "יס אקשן סרטים",
+    "name_en": "Yes Movies Action",
+    "tvgid": "yes-movies-action"
+  },
+  {
+    "nid": "yes-movies-comedy-il",
+    "name_he": "יס קומדיה סרטים",
+    "name_en": "Yes Movies Comedy",
+    "tvgid": "yes-movies-comedy"
+  },
+  {
+    "nid": "yes-movies-drama-il-hd",
+    "name_he": "יס דרמה סרטים",
+    "name_en": "Yes Movies Drama",
+    "tvgid": "yes-movies-drama"
+  },
+  {
+    "nid": "yes-movies-kids-hd-il",
+    "name_he": "יס ילדים סרטים",
+    "name_en": "Yes Movies Kids",
+    "tvgid": "yes-movies-kids"
+  },
+  {
+    "nid": "yes-action-hd-il",
+    "name_he": "יס אקשן TV",
+    "name_en": "Yes Action TV",
+    "tvgid": "yes-action"
+  },
+  {
+    "nid": "yes-comedy-hd-il",
+    "name_he": "יס קומדיה TV",
+    "name_en": "Yes Comedy TV",
+    "tvgid": "yes-comedy"
+  },
+  {
+    "nid": "yes-drama-hd-il",
+    "name_he": "יס דרמה TV",
+    "name_en": "Yes Drama TV",
+    "tvgid": "yes-drama"
+  },
+  {
+    "nid": "yes-plus-cinema-il-hd",
+    "name_he": "יס+ סינימה",
+    "name_en": "Yes+ Cinema",
+    "tvgid": "yes-plus-cinema"
+  },
+  {
+    "nid": "yes-plus-diamonds-il-hd",
+    "name_he": "יס+ דיימונדס",
+    "name_en": "Yes+ Diamonds",
+    "tvgid": "yes-plus-diamonds"
+  },
+  {
+    "nid": "yes-plus-dark-il-hd",
+    "name_he": "יס+ דארק",
+    "name_en": "Yes+ Dark",
+    "tvgid": "yes-plus-dark"
+  },
+  {
+    "nid": "yes-plus-love-il-hd",
+    "name_he": "יס+ אהבה",
+    "name_en": "Yes+ Love",
+    "tvgid": "yes-plus-love"
+  },
+  {
+    "nid": "yes-israel-il",
+    "name_he": "יס ישראלי",
+    "name_en": "Yes Israeli",
+    "tvgid": "yes-israel"
+  },
+  {
+    "nid": "yes-travel-channel-il",
+    "name_he": "יס טיולים",
+    "name_en": "Yes Travel",
+    "tvgid": "yes-travel"
+  },
+  {
+    "nid": "yes-docu-il-hd",
+    "name_he": "יס דוקו",
+    "name_en": "Yes Doco",
+    "tvgid": "yes-doco"
+  },
+  {
+    "nid": "cinema-family-il-hd",
+    "name_he": "הוט פמלי",
+    "name_en": "HOT Cinema Family",
+    "tvgid": "hot-cinema-family"
+  },
+  {
+    "nid": "hot-comedy-central-il-hd",
+    "name_he": "הוט קומדי",
+    "name_en": "HOT Comedy",
+    "tvgid": "hot-comedy"
+  },
+  {
+    "nid": "hot-hbo-il",
+    "name_he": "הוט דרמה",
+    "name_en": "HOT Drama",
+    "tvgid": "hot-drama"
+  },
+  {
+    "nid": "hot-zone-hd-il",
+    "name_he": "הוט Zone",
+    "name_en": "HOT Zone",
+    "tvgid": "hot-zone"
+  },
+  {
+    "nid": "hot3-hd-il",
+    "name_he": "הוט 3",
+    "name_en": "HOT 3",
+    "tvgid": "hot-3"
+  },
+  {
+    "nid": "hot-8-il-hd",
+    "name_he": "הוט 8",
+    "name_en": "HOT 8",
+    "tvgid": "hot-8"
+  },
+  {
+    "nid": "hot-cinema1-il",
+    "name_he": "הוט סינמה 1",
+    "name_en": "HOT Cinema 1",
+    "tvgid": "hot-cinema-1"
+  },
+  {
+    "nid": "hot-cinema2-il",
+    "name_he": "הוט סינמה 2",
+    "name_en": "HOT Cinema 2",
+    "tvgid": "hot-cinema-2"
+  },
+  {
+    "nid": "hot-cinema3-il",
+    "name_he": "הוט סינמה 3",
+    "name_en": "HOT Cinema 3",
+    "tvgid": "hot-cinema-3"
+  },
+  {
+    "nid": "hot-cinema4-il",
+    "name_he": "הוט סינמה 4",
+    "name_en": "HOT Cinema 4",
+    "tvgid": "hot-cinema-4"
+  },
+  {
+    "nid": "hot-cinema5-il",
+    "name_he": "הוט סינמה 5",
+    "name_en": "HOT Cinema 5",
+    "tvgid": "hot-cinema-5"
+  },
+  {
+    "nid": "hot-israeli-cinema-il-hd",
+    "name_he": "הוט קולנוע ישראלי",
+    "name_en": "HOT Israeli Cinema",
+    "tvgid": "hot-israeli-cinema"
+  },
+  {
+    "nid": "hot-romantic-cinema-il-hd",
+    "name_he": "הוט קולנוע רומנטי",
+    "name_en": "HOT Romantic Cinema",
+    "tvgid": "hot-romantic-cinema"
+  },
+  {
+    "nid": "entertainment-il",
+    "name_he": "הוט בידור",
+    "name_en": "HOT Entertainment",
+    "tvgid": "hot-entertainment"
+  },
+  {
+    "nid": "hot-senior-il-hd",
+    "name_he": "הוט סניור",
+    "name_en": "HOT Senior",
+    "tvgid": "hot-senior"
+  },
+  {
+    "nid": "hot-real-il-hd",
+    "name_he": "הוט Real",
+    "name_en": "HOT Real",
+    "tvgid": "hot-real"
+  },
+  {
+    "nid": "hot-mind-il-hd",
+    "name_he": "הוט מינד",
+    "name_en": "HOT Mind",
+    "tvgid": "hot-mind"
+  },
+  {
+    "nid": "freetv-movies-action-il-hd",
+    "name_he": "FreeTV אקשן",
+    "name_en": "FreeTV Action",
+    "tvgid": "freetv-movies-action"
+  },
+  {
+    "nid": "freetv-movies-comedy-il-hd",
+    "name_he": "FreeTV קומדיה",
+    "name_en": "FreeTV Comedy",
+    "tvgid": "freetv-movies-comedy"
+  },
+  {
+    "nid": "freetv-movies-horror-il-hd",
+    "name_he": "FreeTV אימה",
+    "name_en": "FreeTV Horror",
+    "tvgid": "freetv-movies-horror"
+  },
+  {
+    "nid": "freetv-movies-drama-il-hd",
+    "name_he": "FreeTV דרמה",
+    "name_en": "FreeTV Drama",
+    "tvgid": "freetv-movies-drama"
+  },
+  {
+    "nid": "freetv-movies-romantic-il-hd",
+    "name_he": "FreeTV רומנטיקה",
+    "name_en": "FreeTV Romantic",
+    "tvgid": "freetv-movies-romantic"
+  },
+  {
+    "nid": "freetv-movies-israeli-il-hd",
+    "name_he": "FreeTV ישראלי",
+    "name_en": "FreeTV Israeli",
+    "tvgid": "freetv-movies-israeli"
+  },
+  {
+    "nid": "freetv-series-comedy-il-hd",
+    "name_he": "FreeTV סדרות קומדיה",
+    "name_en": "FreeTV Series Comedy",
+    "tvgid": "freetv-series-comedy"
+  },
+  {
+    "nid": "freetv-series-comedy2-il-hd",
+    "name_he": "FreeTV סדרות קומדיה 2",
+    "name_en": "FreeTV Series Comedy 2",
+    "tvgid": "freetv-series-comedy-2"
+  },
+  {
+    "nid": "freetv-series-drama-il-hd",
+    "name_he": "FreeTV סדרות דרמה",
+    "name_en": "FreeTV Series Drama",
+    "tvgid": "freetv-series-drama"
+  },
+  {
+    "nid": "freetv-series-global-il-hd",
+    "name_he": "FreeTV סדרות עולמיות",
+    "name_en": "FreeTV Series Global",
+    "tvgid": "freetv-series-global"
+  },
+  {
+    "nid": "freetv-movies-10-stars-il-hd",
+    "name_he": "FreeTV 10 Stars",
+    "name_en": "FreeTV 10 Stars",
+    "tvgid": "freetv-movies-10-stars"
+  },
+  {
+    "nid": "freetv-movies-thriller-il-hd",
+    "name_he": "FreeTV מתח",
+    "name_en": "FreeTV Thriller",
+    "tvgid": "freetv-movies-thriller"
+  },
+  {
+    "nid": "freetv-movies-family-il-hd",
+    "name_he": "FreeTV משפחה",
+    "name_en": "FreeTV Family",
+    "tvgid": "freetv-movies-family"
+  },
+  {
+    "nid": "freetv-movies-feel-good-il-hd",
+    "name_he": "FreeTV Feel Good",
+    "name_en": "FreeTV Feel Good",
+    "tvgid": "freetv-movies-feel-good"
+  },
+  {
+    "nid": "freetv-lifestyle-il-hd",
+    "name_he": "FreeTV לייף סטייל",
+    "name_en": "FreeTV Lifestyle",
+    "tvgid": "freetv-lifestyle"
+  },
+  {
+    "nid": "freetv-music-channel-il-hd",
+    "name_he": "FreeTV מוזיקה",
+    "name_en": "FreeTV Music",
+    "tvgid": "freetv-music"
+  },
+  {
+    "nid": "global-action-channel-il-hd",
+    "name_he": "ערוץ האקשן העולמי 1",
+    "name_en": "Global Action Channel",
+    "tvgid": "global-action-channel-1"
+  },
+  {
+    "nid": "global-action-channel2-il-hd",
+    "name_he": "ערוץ האקשן העולמי 2",
+    "name_en": "Global Action Channel 2",
+    "tvgid": "global-action-channel-2"
+  },
+  {
+    "nid": "humor-channel-il-hd",
+    "name_he": "ערוץ ההומור",
+    "name_en": "Humor Channel",
+    "tvgid": "humor-channel"
+  },
+  {
+    "nid": "classic-comedy-channel-il-hd",
+    "name_he": "הקומדיות הקלאסיות",
+    "name_en": "Classic Comedy",
+    "tvgid": "classic-comedy"
+  },
+  {
+    "nid": "yamtihoni-il",
+    "name_he": "ים תיכוני",
+    "name_en": "Yam Tichoni",
+    "tvgid": "yam-tichoni"
+  },
+  {
+    "nid": "yam-tichoni-plus-hd",
+    "name_he": "ים תיכוני+",
+    "name_en": "Yam Tichoni+",
+    "tvgid": "yam-tichoni-plus"
+  },
+  {
+    "nid": "mediterranean-movie-channel-il-hd",
+    "name_he": "סרטים ים תיכוני 1",
+    "name_en": "Mediterranean Movie Channel 1",
+    "tvgid": "mediterranean-movie-1"
+  },
+  {
+    "nid": "mediterranean-movie-channel2-il-hd",
+    "name_he": "סרטים ים תיכוני 2",
+    "name_en": "Mediterranean Movie Channel 2",
+    "tvgid": "mediterranean-movie-2"
+  },
+  {
+    "nid": "ego-total-il",
+    "name_he": "ערוץ Ego",
+    "name_en": "Ego Channel",
+    "tvgid": "ego"
+  },
+  {
+    "nid": "vacation-channel-il-hd",
+    "name_he": "ערוץ הנופש",
+    "name_en": "Vacation Channel",
+    "tvgid": "vacation"
+  },
+  {
+    "nid": "home-plus-il",
+    "name_he": "בית+",
+    "name_en": "Home+",
+    "tvgid": "home-plus"
+  },
+  {
+    "nid": "the-design-channel-il-hd",
+    "name_he": "ערוץ העיצוב",
+    "name_en": "Design Channel",
+    "tvgid": "design"
+  },
+  {
+    "nid": "tlc-il-hd",
+    "name_he": "TLC",
+    "name_en": "TLC",
+    "tvgid": "tlc"
+  },
+  {
+    "nid": "game-show-il-hd",
+    "name_he": "ערוץ השעשועונים",
+    "name_en": "Game Show",
+    "tvgid": "game-show"
+  },
+  {
+    "nid": "yes-reality-channel-il-hd",
+    "name_he": "ערוץ הריאליטי",
+    "name_en": "Reality Channel",
+    "tvgid": "yes-reality"
+  },
+  {
+    "nid": "good-life-il",
+    "name_he": "החיים הטובים",
+    "name_en": "Good Life",
+    "tvgid": "good-life"
+  },
+  {
+    "nid": "travel-channel-il",
+    "name_he": "ערוץ הטיולים הוט",
+    "name_en": "Travel Channel HOT",
+    "tvgid": "hot-travel"
+  },
+  {
+    "nid": "e-il",
+    "name_he": "E!",
+    "name_en": "E!",
+    "tvgid": "e"
+  },
+  {
+    "nid": "the-food-channel-il",
+    "name_he": "ערוץ האוכל",
+    "name_en": "Food Channel",
+    "tvgid": "food"
+  },
+  {
+    "nid": "food-network-il",
+    "name_he": "אוכל Network",
+    "name_en": "Food Network",
+    "tvgid": "food-network"
+  },
+  {
+    "nid": "foody-il-hd",
+    "name_he": "פודי",
+    "name_en": "Foody",
+    "tvgid": "foody"
+  },
+  {
+    "nid": "health-il",
+    "name_he": "ערוץ הבריאות",
+    "name_en": "Health Channel",
+    "tvgid": "health"
+  },
+  {
+    "nid": "yes-disney-il-hd",
+    "name_he": "דיסני",
+    "name_en": "Disney",
+    "tvgid": "disney"
+  },
+  {
+    "nid": "disney-jr-il",
+    "name_he": "דיסני ג'וניור",
+    "name_en": "Disney Jr",
+    "tvgid": "disney-jr"
+  },
+  {
+    "nid": "yes-nickelodeon-il",
+    "name_he": "ניקלודיון",
+    "name_en": "Nickelodeon",
+    "tvgid": "nickelodeon"
+  },
+  {
+    "nid": "nick-jr-il",
+    "name_he": "ניקלודיון ג'וניור",
+    "name_en": "Nick Jr",
+    "tvgid": "nick-jr"
+  },
+  {
+    "nid": "teennick-il",
+    "name_he": "טין ניק",
+    "name_en": "TeenNick",
+    "tvgid": "teennick"
+  },
+  {
+    "nid": "hop-childhood-il",
+    "name_he": "הופ",
+    "name_en": "Hop",
+    "tvgid": "hop-childhood"
+  },
+  {
+    "nid": "luli-il",
+    "name_he": "לולי",
+    "name_en": "Luli",
+    "tvgid": "luli"
+  },
+  {
+    "nid": "baby-il",
+    "name_he": "בייבי",
+    "name_en": "Baby",
+    "tvgid": "baby"
+  },
+  {
+    "nid": "zoom-il",
+    "name_he": "זום",
+    "name_en": "Zoom",
+    "tvgid": "zoom"
+  },
+  {
+    "nid": "zoom-toon-il-hd",
+    "name_he": "זום טון",
+    "name_en": "Zoom Toon",
+    "tvgid": "zoom-toon"
+  },
+  {
+    "nid": "junior-il",
+    "name_he": "ג'וניור",
+    "name_en": "Junior",
+    "tvgid": "junior"
+  },
+  {
+    "nid": "music-il-hd",
+    "name_he": "ערוץ המוזיקה",
+    "name_en": "Music Channel",
+    "tvgid": "music-il"
+  },
+  {
+    "nid": "love-channel-il-hd",
+    "name_he": "ערוץ האהבה",
+    "name_en": "Love Channel",
+    "tvgid": "love-channel"
+  },
+  {
+    "nid": "big-brother-il-hd",
+    "name_he": "האח הגדול",
+    "name_en": "Big Brother",
+    "tvgid": "big-brother"
+  },
+  {
+    "nid": "freetv-movies-savri-il-hd",
+    "name_he": "סברי מרנן",
+    "name_en": "Savri Maranan",
+    "tvgid": "savri-maranan"
+  },
+  {
+    "nid": "freetv-eretz-nehederet-il-hd",
+    "name_he": "ארץ נהדרת",
+    "name_en": "Eretz Nehederet",
+    "tvgid": "eretz-nehederet"
+  },
+  {
+    "nid": "viva-premium-il-hd",
+    "name_he": "ויוה פרימיום",
+    "name_en": "Viva Premium",
+    "tvgid": "viva-premium"
+  },
+  {
+    "nid": "viva-plus-il",
+    "name_he": "ויוה איסטנבול",
+    "name_en": "Viva Istanbul",
+    "tvgid": "viva-plus"
+  },
+  {
+    "nid": "viva-il",
+    "name_he": "ויוה טלנובלות",
+    "name_en": "Viva Telenovelas",
+    "tvgid": "viva"
+  },
+  {
+    "nid": "viva-vintage-il",
+    "name_he": "ויוה וינטג'",
+    "name_en": "Viva Vintage",
+    "tvgid": "viva-vintage"
+  },
+  {
+    "nid": "hot-bollywood-il",
+    "name_he": "בוליווד סרטים הודיים",
+    "name_en": "Bollywood Indian Movies",
+    "tvgid": "hot-bollywood"
+  },
+  {
+    "nid": "bollywood-classic-il-hd",
+    "name_he": "בוליווד סרטים קלאסיים",
+    "name_en": "Bollywood Indian Classic",
+    "tvgid": "bollywood-classic"
+  },
+  {
+    "nid": "indian-series-il-hd",
+    "name_he": "דרמות הודיות 1",
+    "name_en": "Indian Dramas 1",
+    "tvgid": "indian-series-1"
+  },
+  {
+    "nid": "indian-series2-il-hd",
+    "name_he": "דרמות הודיות 2",
+    "name_en": "Indian Dramas 2",
+    "tvgid": "indian-series-2"
+  },
+  {
+    "nid": "turkish-dramas-plus-il",
+    "name_he": "דרמות טורקיות פלוס",
+    "name_en": "Turkish Dramas Plus",
+    "tvgid": "turkish-dramas-plus"
+  },
+  {
+    "nid": "turkish-dramas2-il-hd",
+    "name_he": "דרמות טורקיות 2",
+    "name_en": "Turkish Dramas 2",
+    "tvgid": "turkish-dramas-2"
+  },
+  {
+    "nid": "turkish-dramas3-il-hd",
+    "name_he": "דרמות טורקיות 3",
+    "name_en": "Turkish Dramas 3",
+    "tvgid": "turkish-dramas-3"
+  }
+]
